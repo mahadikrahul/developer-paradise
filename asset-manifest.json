@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "https://mahadikrahul.github.io/developer-paradise/static/css/main.c21425e7.css",
-    "main.js": "https://mahadikrahul.github.io/developer-paradise/static/js/main.9c09260a.js",
+    "main.js": "https://mahadikrahul.github.io/developer-paradise/static/js/main.4222785d.js",
     "static/js/787.b6e20401.chunk.js": "https://mahadikrahul.github.io/developer-paradise/static/js/787.b6e20401.chunk.js",
     "static/media/logo.png": "https://mahadikrahul.github.io/developer-paradise/static/media/logo.5c86e11af3667ace3352.png",
     "index.html": "https://mahadikrahul.github.io/developer-paradise/index.html",
     "main.c21425e7.css.map": "https://mahadikrahul.github.io/developer-paradise/static/css/main.c21425e7.css.map",
-    "main.9c09260a.js.map": "https://mahadikrahul.github.io/developer-paradise/static/js/main.9c09260a.js.map",
+    "main.4222785d.js.map": "https://mahadikrahul.github.io/developer-paradise/static/js/main.4222785d.js.map",
     "787.b6e20401.chunk.js.map": "https://mahadikrahul.github.io/developer-paradise/static/js/787.b6e20401.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c21425e7.css",
-    "static/js/main.9c09260a.js"
+    "static/js/main.4222785d.js"
   ]
 }
