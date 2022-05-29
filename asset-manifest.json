@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/developer-paradise/static/css/main.073c9b0a.css",
-    "main.js": "/developer-paradise/static/js/main.296ab96d.js",
-    "static/js/787.b6e20401.chunk.js": "/developer-paradise/static/js/787.b6e20401.chunk.js",
-    "static/media/logo.svg": "/developer-paradise/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/developer-paradise/index.html",
-    "main.073c9b0a.css.map": "/developer-paradise/static/css/main.073c9b0a.css.map",
-    "main.296ab96d.js.map": "/developer-paradise/static/js/main.296ab96d.js.map",
-    "787.b6e20401.chunk.js.map": "/developer-paradise/static/js/787.b6e20401.chunk.js.map"
+    "main.css": "https://mahadikrahul.github.io/developer-paradise/static/css/main.c21425e7.css",
+    "main.js": "https://mahadikrahul.github.io/developer-paradise/static/js/main.9c09260a.js",
+    "static/js/787.b6e20401.chunk.js": "https://mahadikrahul.github.io/developer-paradise/static/js/787.b6e20401.chunk.js",
+    "static/media/logo.png": "https://mahadikrahul.github.io/developer-paradise/static/media/logo.5c86e11af3667ace3352.png",
+    "index.html": "https://mahadikrahul.github.io/developer-paradise/index.html",
+    "main.c21425e7.css.map": "https://mahadikrahul.github.io/developer-paradise/static/css/main.c21425e7.css.map",
+    "main.9c09260a.js.map": "https://mahadikrahul.github.io/developer-paradise/static/js/main.9c09260a.js.map",
+    "787.b6e20401.chunk.js.map": "https://mahadikrahul.github.io/developer-paradise/static/js/787.b6e20401.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.296ab96d.js"
+    "static/css/main.c21425e7.css",
+    "static/js/main.9c09260a.js"
   ]
 }
